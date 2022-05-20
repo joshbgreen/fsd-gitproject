@@ -32,3 +32,9 @@ When setting up Git
     You will also need to sign in using the commands below:
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
+
+    git log
+        shows all of the commits who by, comment for git and then an id for each commit
+
+    branches :
+        git branch
