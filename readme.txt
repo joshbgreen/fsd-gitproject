@@ -37,4 +37,12 @@ When setting up Git
         shows all of the commits who by, comment for git and then an id for each commit
 
     branches :
+        branches allow you to take a copy of the files make edits ect. 
+        git branch <branch name>
+            this creates a new branch
         git branch
+            shows the branches available in the git log
+            the asterisk shows you what branch you are currently working in
+        git checkout <branch name>
+            this will switch you to a different branch
+        
