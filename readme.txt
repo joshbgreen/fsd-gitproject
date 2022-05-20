@@ -25,3 +25,10 @@ When setting up Git
     Once a file is tracked edits will be shown by a mark next to the lines
     once the file is saved it will show as M - modified you will need to push the file again
     
+    git commit -m 'any message here' .
+        this will commit anything the message is attached to the commit when you commit a number of files
+        this tags the commit for understanding
+
+    You will also need to sign in using the commands below:
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
