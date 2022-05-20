@@ -1,0 +1,27 @@
+git
+git-scm.com
+
+Git is a version management solution, this does not track multiple versions of the same file but tracks the modifications to each file every time there is a commit
+    When we recieve issues we can view where the bug was present and resolve this much faster as we can find the file and version of the file where there was an issues
+
+Branching
+    we can branch from live -> this gives a copy of live files allowing us to modify and test
+    This will need to be merged once we have rectified something
+        keep source -> keeps source files during merge
+        keep incoming -> prioritises incoming
+        keep both -> merges both together
+
+When setting up Git
+    install git
+    go to desired directory
+    setup a repository
+    git init
+        command to initialise an empty git repository
+    Git add <file name>
+        this pushes the file into the git system
+        git add . 
+            adds all files in the current folder
+
+    Once a file is tracked edits will be shown by a mark next to the lines
+    once the file is saved it will show as M - modified you will need to push the file again
+    
