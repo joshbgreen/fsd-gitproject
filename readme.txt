@@ -54,7 +54,19 @@ When setting up Git
 
 Git/ github
     learn what Push/Pull requests are
+    create repositories learn what all means
+    learn github actions
 
+
+    git clone <repository url>
+        this will clone a github repository on your local machine
+    
+    git remote add origin https://github.com/joshbgreen/fsd-gitproject.git 
+        creating our local git within github
+    git branch -M main
+    git push -u origin main
+
+    
 
 HTML
     HTML
