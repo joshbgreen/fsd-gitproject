@@ -47,10 +47,15 @@ When setting up Git
             this will switch you to a different branch
         git checkout -b <branch name>
             creates new branch with the name and copys the previous branch you where in
-        
+        .gitignore - <file name/ folder name>
+            this creates an ignore folder so we can ignore some specific folders/files in the repository
+
 
 
 Git/ github
+    learn what Push/Pull requests are
+
+
 HTML
     HTML
     head
