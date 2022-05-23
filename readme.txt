@@ -45,4 +45,21 @@ When setting up Git
             the asterisk shows you what branch you are currently working in
         git checkout <branch name>
             this will switch you to a different branch
+        git checkout -b <branch name>
+            creates new branch with the name and copys the previous branch you where in
+        
+
+
+Git/ github
+HTML
+    HTML
+    head
+    heading
+    body
+    paragraphs
+    images
+
+    5 assignments 1 day for each assignment
+
+
         
