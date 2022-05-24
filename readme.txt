@@ -69,7 +69,13 @@ Git/ github
     git branch -a 
         this can show us hidden branches
         when linked to github 'remotes/origin/feature' is the connection branch to github
-
+    git branch -r
+        checks remote branches stored (github)
+    git ls-remote
+    git fetch git merge
+        will collect the remote then merge
+    git pull
+        to get data back
 
 HTML
     HTML
