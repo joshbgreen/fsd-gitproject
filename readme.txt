@@ -65,8 +65,11 @@ Git/ github
         creating our local git within github
     git branch -M main
     git push -u origin main
+        This pushes the desired branch towards github
+    git branch -a 
+        this can show us hidden branches
+        when linked to github 'remotes/origin/feature' is the connection branch to github
 
-    
 
 HTML
     HTML
